@@ -1,0 +1,65 @@
+F:\Projects\DBHelper\bin\Debug\DBHelper.dll
+F:\Projects\DBHelper\bin\Debug\DBHelper.pdb
+F:\Projects\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\DBHelper\obj\Debug\DBHelper.dll
+F:\Projects\DBHelper\obj\Debug\DBHelper.pdb
+F:\Projects\LJJ\DBHelper\bin\Debug\DBHelper.dll
+F:\Projects\LJJ\DBHelper\bin\Debug\DBHelper.pdb
+F:\Projects\LJJ\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\LJJ\DBHelper\obj\Debug\DBHelper.dll
+F:\Projects\LJJ\DBHelper\obj\Debug\DBHelper.pdb
+F:\Projects\录井公司新技术\LJJ\DBHelper\bin\Debug\DBHelper.dll
+F:\Projects\录井公司新技术\LJJ\DBHelper\bin\Debug\DBHelper.pdb
+F:\Projects\录井公司新技术\LJJ\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\录井公司新技术\LJJ\DBHelper\obj\Debug\DBHelper.dll
+F:\Projects\录井公司新技术\LJJ\DBHelper\obj\Debug\DBHelper.pdb
+F:\Project\LJJSNewTechnology\Project\LJJ\DBHelper\bin\Debug\DBHelper.dll
+F:\Project\LJJSNewTechnology\Project\LJJ\DBHelper\bin\Debug\DBHelper.pdb
+F:\Project\LJJSNewTechnology\Project\LJJ\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\LJJSNewTechnology\Project\LJJ\DBHelper\obj\Debug\DBHelper.dll
+F:\Project\LJJSNewTechnology\Project\LJJ\DBHelper\obj\Debug\DBHelper.pdb
+E:\MyProject\LJJNewTechnology\Project\DBHelper\bin\Debug\DBHelper.dll
+E:\MyProject\LJJNewTechnology\Project\DBHelper\bin\Debug\DBHelper.pdb
+E:\MyProject\LJJNewTechnology\Project\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\LJJNewTechnology\Project\DBHelper\obj\Debug\DBHelper.dll
+E:\MyProject\LJJNewTechnology\Project\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\新建文件夹\Original\Project1\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\jint\Desktop\新建文件夹\Original\Project1\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\新建文件夹\Original\Project1\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\jint\Desktop\新建文件夹\Original\Project1\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\jint\Desktop\新建文件夹\Original\Project1\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\新建文件夹\Original\ProjectNow\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\jint\Desktop\新建文件夹\Original\ProjectNow\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\新建文件夹\Original\ProjectNow\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\jint\Desktop\新建文件夹\Original\ProjectNow\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\jint\Desktop\新建文件夹\Original\ProjectNow\DBHelper\obj\Debug\DBHelper.pdb
+C:\Documents and Settings\Administrator\桌面\119\DBHelper\bin\Debug\DBHelper.dll
+C:\Documents and Settings\Administrator\桌面\119\DBHelper\bin\Debug\DBHelper.pdb
+C:\Documents and Settings\Administrator\桌面\119\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\119\DBHelper\obj\Debug\DBHelper.dll
+C:\Documents and Settings\Administrator\桌面\119\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\119\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\jint\Desktop\119\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\119\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\jint\Desktop\119\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\jint\Desktop\119\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\项目版本\1125\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\jint\Desktop\项目版本\1125\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\项目版本\1125\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\jint\Desktop\项目版本\1125\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\jint\Desktop\项目版本\1125\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\验收\1125\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\jint\Desktop\验收\1125\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\验收\1125\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\jint\Desktop\验收\1125\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\jint\Desktop\验收\1125\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+D:\ProJectNoData\验收\绘图1-10\DBHelper\bin\Debug\DBHelper.dll
+D:\ProJectNoData\验收\绘图1-10\DBHelper\bin\Debug\DBHelper.pdb
+D:\ProJectNoData\验收\绘图1-10\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+D:\ProJectNoData\验收\绘图1-10\DBHelper\obj\Debug\DBHelper.dll
+D:\ProJectNoData\验收\绘图1-10\DBHelper\obj\Debug\DBHelper.pdb
