@@ -1,0 +1,43 @@
+F:\Projects\LJJ\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.dll
+F:\Projects\LJJ\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.pdb
+F:\Projects\LJJ\DrawingModelDBStruc\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\LJJ\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.dll
+F:\Projects\LJJ\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.pdb
+F:\Projects\录井公司新技术\LJJ\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.dll
+F:\Projects\录井公司新技术\LJJ\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.pdb
+F:\Projects\录井公司新技术\LJJ\DrawingModelDBStruc\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\录井公司新技术\LJJ\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.dll
+F:\Projects\录井公司新技术\LJJ\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.pdb
+F:\Project\LJJSNewTechnology\Project\LJJ\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.dll
+F:\Project\LJJSNewTechnology\Project\LJJ\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.pdb
+F:\Project\LJJSNewTechnology\Project\LJJ\DrawingModelDBStruc\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\LJJSNewTechnology\Project\LJJ\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.dll
+F:\Project\LJJSNewTechnology\Project\LJJ\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.pdb
+E:\MyProject\LJJNewTechnology\Project\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.dll
+E:\MyProject\LJJNewTechnology\Project\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.pdb
+E:\MyProject\LJJNewTechnology\Project\DrawingModelDBStruc\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\LJJNewTechnology\Project\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.dll
+E:\MyProject\LJJNewTechnology\Project\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.pdb
+C:\Documents and Settings\Administrator\桌面\119\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.dll
+C:\Documents and Settings\Administrator\桌面\119\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.pdb
+C:\Documents and Settings\Administrator\桌面\119\DrawingModelDBStruc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\119\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.dll
+C:\Documents and Settings\Administrator\桌面\119\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.pdb
+C:\Users\jint\Desktop\119\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.dll
+C:\Users\jint\Desktop\119\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.pdb
+C:\Users\jint\Desktop\119\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.dll
+C:\Users\jint\Desktop\119\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.pdb
+C:\Users\jint\Desktop\项目版本\1125\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.dll
+C:\Users\jint\Desktop\项目版本\1125\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.pdb
+C:\Users\jint\Desktop\项目版本\1125\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.dll
+C:\Users\jint\Desktop\项目版本\1125\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.pdb
+C:\Users\jint\Desktop\验收\1125\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.dll
+C:\Users\jint\Desktop\验收\1125\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.pdb
+C:\Users\jint\Desktop\验收\1125\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.csprojResolveAssemblyReference.cache
+C:\Users\jint\Desktop\验收\1125\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.dll
+C:\Users\jint\Desktop\验收\1125\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.pdb
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.dll
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DrawingModelDBStruc\bin\Debug\DrawingModelDBStruc.pdb
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.csprojResolveAssemblyReference.cache
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.dll
+C:\Users\jint\Desktop\ProJectNoData\验收\1125\DrawingModelDBStruc\obj\Debug\DrawingModelDBStruc.pdb
